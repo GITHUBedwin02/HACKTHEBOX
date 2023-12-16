@@ -47,7 +47,7 @@ After doing **DIRSEARCH** we find another web directory http://surveillance.htb/
 
 <figure><img src=".gitbook/assets/Screenshot 2023-12-17 at 00-36-23 Sign In - Surveillance.png" alt=""><figcaption><p>http://surveillance.htb/admin/login</p></figcaption></figure>
 
-#### GETTING SHELL  ACESS
+#### GETTING SHELL  ACCESS
 
 POC
 
@@ -178,7 +178,7 @@ For any questions or clarifications, please feel free to reach out. Stay safe an
 save this python script with **.py** format and run the following line of codes.
 
 ```
-┌──(BATMAN㉿GC)-[~/HackTheBox/Surveillance]
+┌──(Batman㉿GC)-[~/HackTheBox/Surveillance]
 └─$ python3 script.py http://surveillance.htb/
 [-] Get temporary folder and document root ...
 [-] Write payload to temporary file ...
@@ -358,4 +358,4 @@ whoami
 root
 ```
 
-We are ROOT!!!!!!
+**We are ROOT!!!!!!**
