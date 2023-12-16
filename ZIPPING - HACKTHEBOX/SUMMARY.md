@@ -1,3 +1,3 @@
 # Table of contents
 
-* [⚽ Zipping HackTheBox Walkthrough](README.md)
+* [🚩 Zipping HackTheBox Walkthrough](README.md)
