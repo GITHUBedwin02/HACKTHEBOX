@@ -1,4 +1,4 @@
-# ⚽ Zipping HackTheBox Walkthrough
+# 🚩 Zipping HackTheBox Walkthrough
 
 <figure><img src=".gitbook/assets/Zipping.png" alt=""><figcaption><p>ZIPPING - HACK THE BOX</p></figcaption></figure>
 
